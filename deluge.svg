@@ -16,12 +16,12 @@
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
    sodipodi:docname="deluge.svg"
-   inkscape:export-xdpi="960"
-   inkscape:export-ydpi="960"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:modified="TRUE"
    version="1.1"
-   inkscape:export-filename="/home/calum/projects/deluge-logo/deluge.512.a.png">
+   inkscape:export-filename="/home/calum/projects/deluge-logo/deluge.16.e.png">
   <defs
      id="defs3">
     <color-profile
@@ -351,9 +351,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="19.685853"
-     inkscape:cx="9.0728943"
-     inkscape:cy="17.085554"
-     inkscape:current-layer="layer6"
+     inkscape:cx="14.942157"
+     inkscape:cy="24.429162"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -508,7 +508,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="wave fill"
-     style="display:none">
+     style="display:inline">
     <path
        style="display:inline;fill:#094491;fill-opacity:1;fill-rule:evenodd;stroke:#094491 icc-color(sRGB, 0.18046845, 0.27837034, 0.41960784);stroke-width:0.40552941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 24.811452,24.996951 c -6.049549,-2.467385 -7.648816,3.683738 -6.639688,6.628769 2.195546,6.407462 11.948502,7.605174 18.062738,-3.067723 0,0 0.11598,1.28803 0.180639,1.900859 0.82106,7.781844 -5.621926,12.735535 -12.253379,12.638715 -6.631454,-0.09682 -8.657036,-2.672368 -10.611083,-5.637583 -3.170275,-4.810809 -2.429788,-11.327408 1.78168,-14.840553 4.864733,-3.959831 8.798281,-0.09585 9.479093,2.377516 z"
@@ -519,14 +519,26 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="wave stroke and fill"
-     style="display:inline">
+     inkscape:label="wave stroke 1.3px and fill "
+     style="display:none">
     <path
        style="display:inline;fill:#99c3f9;fill-opacity:1;fill-rule:evenodd;stroke:#094491 icc-color(sRGB, 0.18046845, 0.27837034, 0.41960784);stroke-width:1.33399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 23.761543,24.179576 c -6.481311,-1.72424 -6.932125,6.183803 -5.453851,8.969604 2.408248,4.538333 12.155453,5.377175 17.656085,-3.282742 0,0 0.127311,2.193563 0.07142,2.77892 -0.534334,5.596549 -6.848986,9.789262 -11.999526,9.621298 -5.243605,-0.170999 -8.282469,-2.549917 -10.154056,-5.379263 -3.036492,-4.590373 -2.048612,-10.811985 1.554101,-13.80496 4.248899,-3.646516 7.44994,-0.562347 8.325829,1.097143 z"
+       d="m 23.761543,24.179576 c -6.481311,-1.72424 -6.932125,6.183803 -5.453851,8.969604 2.408248,4.538333 12.206251,5.377175 17.706883,-3.282742 0,0 0.07651,2.193563 0.02062,2.77892 -0.534334,5.596549 -6.848986,9.789262 -11.999526,9.621298 -5.243605,-0.170999 -8.282469,-2.549917 -10.154056,-5.379263 -3.036492,-4.590373 -2.048612,-10.811985 1.554101,-13.80496 4.248899,-3.646516 7.44994,-0.562347 8.325827,1.097143 z"
        id="path2969-6"
        sodipodi:nodetypes="cscssscc"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="wave stroke 2px and fill "
+     id="g4217"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssscc"
+       id="path4219"
+       d="m 23.507553,23.925586 c -6.495438,-1.064032 -6.790118,6.421446 -5.149063,9.579179 2.304561,4.434459 10.903063,6.282759 17.3005,-2.825561 0,0 -0.02509,1.990372 -0.08098,2.575729 -0.534334,5.596549 -6.391805,8.925697 -11.542345,8.757733 -5.243605,-0.170999 -8.247979,-2.119778 -10.001662,-5.023677 -2.772156,-4.590373 -2.467304,-9.592836 0.487345,-12.585811 3.100966,-3.879425 7.831125,-2.714919 8.986201,-0.477592 z"
+       style="display:inline;fill:#99c3f9;fill-opacity:1;fill-rule:evenodd;stroke:#094491 icc-color(sRGB, 0.18046845, 0.27837034, 0.41960784);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -556,12 +568,12 @@
      inkscape:groupmode="layer"
      id="g4486"
      inkscape:label="solid inner wavelet larger"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:#99c3f9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 23.04387,23.581433 c -6.061536,-1.097625 -7.657026,5.600144 -6.286791,8.9906 2.176728,5.38601 6.711009,7.821666 17.106085,3.332725 -8.654901,8.391764 -14.488217,5.319001 -17.466192,2.589805 -3.068046,-2.811743 -4.610143,-8.77687 -2.321905,-12.750463 2.612315,-5.18301 7.554396,-4.169362 8.968803,-2.162667 z"
+       d="m 21.55277,22.974939 c -5.188765,1.005551 -6.173294,6.973638 -4.694095,10.155871 2.191227,4.714034 8.449957,8.07696 17.664862,0.691234 -5.828901,10.827975 -14.873199,7.043001 -17.313798,4.977307 -1.97159,-1.66873 -4.140213,-4.855142 -4.11832,-8.341257 0.04283,-6.819839 6.522609,-8.776462 8.461351,-7.483155 z"
        id="path4488"
-       sodipodi:nodetypes="cacscc"
+       sodipodi:nodetypes="cscssc"
        inkscape:connector-curvature="0" />
   </g>
   <g
